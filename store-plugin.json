@@ -131,7 +131,7 @@
     "Id": "aeb94d3d-9c39-4917-9cd0-a4cde95433a2",
     "Name": "Spotify",
     "Author": "Wox-launcher",
-    "Version": "0.0.2",
+    "Version": "0.0.3",
     "MinWoxVersion": "2.0.0",
     "Runtime": "nodejs",
     "Description": "Spotify integration",
@@ -147,7 +147,7 @@
       "Linux"
     ],
     "DateCreated": "2024-07-05 15:00:00",
-    "DateUpdated": "2026-05-14 06:58:15"
+    "DateUpdated": "2026-09-13 01:54:00"
   },
   {
     "Id": "9575a1fc-d81b-4947-bcce-bd075f118f3e",
@@ -542,7 +542,7 @@
     "Id": "2f326a0c-cd9f-4ddf-9b45-f8abf082283f",
     "Name": "i18n:plugin_name",
     "Author": "Wox-launcher",
-    "Version": "0.2.3",
+    "Version": "0.4.0",
     "MinWoxVersion": "2.0.0",
     "Runtime": "nodejs",
     "Description": "i18n:plugin_desc",
@@ -558,7 +558,7 @@
       "Linux"
     ],
     "DateCreated": "2026-03-08 15:56:00",
-    "DateUpdated": "2026-06-09 15:59:48",
+    "DateUpdated": "2026-09-13 01:54:07",
     "I18n": {
       "en_US": {
         "plugin_name": "Codex Usage",
@@ -936,7 +936,7 @@
     "Id": "d30c9661-fa55-4ea6-b6f1-bc61e7aa8586",
     "Name": "need",
     "Author": "zed",
-    "Version": "0.2.0",
+    "Version": "0.2.1",
     "MinWoxVersion": "2.0.4",
     "Runtime": "nodejs",
     "Description": "Store and quickly retrieve local key-value notes",
@@ -953,7 +953,7 @@
       "Linux"
     ],
     "DateCreated": "2026-08-28 21:27:52",
-    "DateUpdated": "2026-08-29 10:51:00"
+    "DateUpdated": "2026-09-13 01:54:13"
   },
   {
     "Id": "5e693e9d-4683-4982-8929-d4ea5e364c5b",
