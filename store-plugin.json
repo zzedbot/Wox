@@ -131,7 +131,7 @@
     "Id": "aeb94d3d-9c39-4917-9cd0-a4cde95433a2",
     "Name": "Spotify",
     "Author": "Wox-launcher",
-    "Version": "0.0.2",
+    "Version": "0.0.3",
     "MinWoxVersion": "2.0.0",
     "Runtime": "nodejs",
     "Description": "Spotify integration",
@@ -147,7 +147,7 @@
       "Linux"
     ],
     "DateCreated": "2024-07-05 15:00:00",
-    "DateUpdated": "2026-05-14 06:58:15"
+    "DateUpdated": "2026-09-26 18:09:24"
   },
   {
     "Id": "9575a1fc-d81b-4947-bcce-bd075f118f3e",
@@ -365,7 +365,7 @@
     "Id": "cb491ba6-e73f-4434-922e-738a55f87558",
     "Name": "i18n:plugin_name",
     "Author": "Wox-launcher",
-    "Version": "0.0.3",
+    "Version": "0.0.4",
     "MinWoxVersion": "2.0.0",
     "Runtime": "python",
     "Description": "i18n:plugin_description",
@@ -381,7 +381,7 @@
       "linux"
     ],
     "DateCreated": "2025-12-27 19:55:00",
-    "DateUpdated": "2026-07-15 09:36:00",
+    "DateUpdated": "2026-09-26 18:09:26",
     "I18n": {
       "en_US": {
         "plugin_name": "Kill Process",
@@ -512,7 +512,7 @@
     "Id": "8f8d2954-4ef6-4b0f-ba53-a816fe095acc",
     "Name": "Iconify",
     "Author": "Wox-launcher",
-    "Version": "0.0.2",
+    "Version": "0.1.0",
     "MinWoxVersion": "2.0.0",
     "Runtime": "python",
     "Description": "i18n:plugin_description",
@@ -528,7 +528,7 @@
       "Linux"
     ],
     "DateCreated": "2026-03-08 15:56:00",
-    "DateUpdated": "2026-03-08 15:56:00",
+    "DateUpdated": "2026-09-26 18:09:28",
     "I18n": {
       "en_US": {
         "plugin_description": "Search Iconify icons - Home of open source icon sets"
@@ -542,7 +542,7 @@
     "Id": "2f326a0c-cd9f-4ddf-9b45-f8abf082283f",
     "Name": "i18n:plugin_name",
     "Author": "Wox-launcher",
-    "Version": "0.2.3",
+    "Version": "0.6.1",
     "MinWoxVersion": "2.0.0",
     "Runtime": "nodejs",
     "Description": "i18n:plugin_desc",
@@ -558,7 +558,7 @@
       "Linux"
     ],
     "DateCreated": "2026-03-08 15:56:00",
-    "DateUpdated": "2026-06-09 15:59:48",
+    "DateUpdated": "2026-09-26 18:09:28",
     "I18n": {
       "en_US": {
         "plugin_name": "Codex Usage",
@@ -732,7 +732,7 @@
     "Id": "263fa95c-db99-4dc8-be68-784b5ae421f8",
     "Name": "i18n:plugin_name",
     "Author": "stmluyuer",
-    "Version": "0.1.0",
+    "Version": "0.1.1",
     "MinWoxVersion": "2.0.0",
     "Runtime": "nodejs",
     "Description": "i18n:plugin_description",
@@ -752,7 +752,7 @@
       "Linux"
     ],
     "DateCreated": "2026-04-28 13:05:57",
-    "DateUpdated": "2026-04-28 13:05:57",
+    "DateUpdated": "2026-09-26 18:09:30",
     "I18n": {
       "en_US": {
         "plugin_name": "LuxTranslate",
@@ -936,7 +936,7 @@
     "Id": "d30c9661-fa55-4ea6-b6f1-bc61e7aa8586",
     "Name": "need",
     "Author": "zed",
-    "Version": "0.2.0",
+    "Version": "0.2.1",
     "MinWoxVersion": "2.0.4",
     "Runtime": "nodejs",
     "Description": "Store and quickly retrieve local key-value notes",
@@ -953,7 +953,7 @@
       "Linux"
     ],
     "DateCreated": "2026-08-28 21:27:52",
-    "DateUpdated": "2026-08-29 10:51:00"
+    "DateUpdated": "2026-09-26 18:09:32"
   },
   {
     "Id": "5e693e9d-4683-4982-8929-d4ea5e364c5b",
